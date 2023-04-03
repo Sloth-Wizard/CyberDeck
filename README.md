@@ -6,6 +6,7 @@ The base `.stl` files were all downloaded from [here](https://www.printables.com
 ## Current advancement
 
 Case is printed, waiting for electornics to arrive at destination.
+
 ![Cyberdeck advancements!](/images/case.jpg "Cyberdeck")
 
 ### Problems encountered by most common to rarest
