@@ -33,3 +33,5 @@ Best to worst by order (I'm only strating to test more filament brands)
 ```
 Ultrafuse > Real Filament
 ```
+
+More to come like ths dotfiles, window manager used, the eInk display config and the hardware list
