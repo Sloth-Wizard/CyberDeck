@@ -11,6 +11,10 @@ Currently remaking the backplate and front plate, originally I thought adding th
 
 ![Cyberdeck advancements!](/images/cd_02_front.jpg "Cyberdeck")
 
+Added the Micro Dot pHat on the front with a wave function to give temperature information. It is in no way precise but it looks cool.
+
+![Cyberdeck Micro Dot pHat](/videos/cd_02_mdp.gif "Micro Dot pHat")
+
 ### Problems encountered by most common to rarest
 
 ```
