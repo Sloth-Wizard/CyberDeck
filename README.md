@@ -7,6 +7,8 @@ The base `.stl` files were all downloaded from [here](https://www.printables.com
 
 It is functional but not finished, still needs a lot of modding from the original project. 3D files need to be modified to suit my needs and some hardware has no use for me.
 
+Currently remaking the backplate and front plate, originally I thought adding the Nuc inside the case but I will instead add a larger battery pack to make it truly portable.
+
 ![Cyberdeck advancements!](/images/20230421_004042.jpg "Cyberdeck")
 
 ### Problems encountered by most common to rarest
