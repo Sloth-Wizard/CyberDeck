@@ -9,7 +9,7 @@ It is functional but not finished, still needs a lot of modding from the origina
 
 Currently remaking the backplate and front plate, originally I thought adding the Nuc inside the case but I will instead add a larger battery pack to make it truly portable.
 
-![Cyberdeck advancements!](/images/20230421_004042.jpg "Cyberdeck")
+![Cyberdeck advancements!](/images/cd_02_front.jpg "Cyberdeck")
 
 ### Problems encountered by most common to rarest
 
