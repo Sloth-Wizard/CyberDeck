@@ -1,7 +1,5 @@
 # Cyberdeck
 
-/!\ On pause atm, I burned my Pi and need to get a new one, project will be continued on an Odroid C4 sbc
-
 This project is to learn about electronics and 3D. It is also here to look cool.
 The base `.stl` files were all downloaded from [here](https://www.printables.com/model/66293-msg-cyberdeck-v2).
 
