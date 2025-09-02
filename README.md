@@ -36,7 +36,7 @@ Low voltage when passing power like this (source -> ups -> hat -> pi), it needs 
 
 ### Filament brand
 
-Best to worst by order (I'm only strating to test more filament brands)
+Best to worst by order (I'm only starting to test more filament brands)
 
 ```
 Ultrafuse > Real Filament
